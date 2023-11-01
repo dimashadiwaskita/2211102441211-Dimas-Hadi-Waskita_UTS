@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Ular
+comment1.params=dot
+comment1.target=Ular(int)
+comment10.params=
+comment10.target=void\ lookForEdge()
+comment11.params=
+comment11.target=void\ lookForDot()
+comment12.params=
+comment12.target=void\ stayOnCourse()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ lead()
+comment4.params=
+comment4.target=void\ follow()
+comment5.params=
+comment5.target=void\ growTail()
+comment6.params=
+comment6.target=void\ lookForFood()
+comment7.params=clss
+comment7.target=boolean\ canSee(java.lang.Class)
+comment8.params=clss
+comment8.target=void\ eat(java.lang.Class)
+comment9.params=
+comment9.target=boolean\ atWorldEdge()
+numComments=13
